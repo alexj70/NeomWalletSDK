@@ -1,0 +1,2 @@
+
+typealias AddCollectibleResult = Endpoint.Collectible
