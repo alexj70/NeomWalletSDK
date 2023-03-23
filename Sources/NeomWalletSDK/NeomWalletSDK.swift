@@ -1,4 +1,5 @@
 import Foundation
+import KeychainSwift
 
 public final class NeomWalletSDK {
     internal var service: NetworkService

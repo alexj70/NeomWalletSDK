@@ -1,3 +1,5 @@
 # NeomWalletSDK
 
-A description of this package.
+The package loads data from Wallet Remote Endpoint
+
+

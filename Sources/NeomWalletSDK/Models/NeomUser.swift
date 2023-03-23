@@ -1,5 +1,6 @@
 import Foundation
 //import KeychainSwift
+import KeychainSwift
 
 public final class NeomUser: Codable, PersonalInfo {
     public var password: String = ""
